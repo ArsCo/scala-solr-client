@@ -1,2 +1,14 @@
+# OS files
+.DS_Store
+
+# IDE files
+.idea/
+
+# Binary files
+target/
+
+# Test tmp files
+src/test/resources/testdata/
+
 *.class
 *.log
